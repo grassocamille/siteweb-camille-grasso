@@ -1,0 +1,36 @@
+---
+title: "Space and duration in virtual reality"
+description: "An ongoing VR and EEG study of how environmental geometry relates to duration production."
+---
+
+:::: {.project-page}
+
+::: {.page-hero .page-hero--project}
+::: {.page-hero__inner}
+<p class="eyebrow">Behaviour · EEG decoding</p>
+
+# Space and *duration in virtual reality*
+
+<p class="page-hero__lead">How does the geometry of a surrounding environment shape temporal behaviour, and when does that context become relevant to the neural dynamics of duration production?</p>
+
+<a class="text-link" href="../../about/index.qmd#projects">← All research projects</a>
+:::
+:::
+
+::: {.project-content}
+::: {.project-content__inner}
+
+In this project, we ask how the space around us affects the durations we produce. A larger room may change temporal behaviour because of its overall spatial magnitude, because of the possibilities for movement it affords, or through both routes. We use immersive virtual reality to vary floor area and ceiling height, while recording EEG as participants produce intervals in these environments. Time-resolved decoding and related analyses let us ask when the brain carries information about the surrounding space and temporal behaviour, and whether neural patterns associated with timing are shared across environments. The analyses are still taking shape; watch this space (and time) for the paper.
+
+## People and publications
+
+I developed this study with **Matthew Logie** and **Virginie van Wassenhove** at NeuroSpin, as part of the [EXPERIENCE Project](https://experience-project.eu). A conference poster is available while the manuscript is in preparation.
+
+- [Space and duration in virtual reality — FAsT 2024 poster](../../talk/fast_2024/index.qmd)
+- [View the complete poster (PDF)](../../files/fast-2024-poster.pdf)
+
+<p class="project-content__back"><a class="text-link" href="../../about/index.qmd#projects">← Back to research projects</a></p>
+:::
+:::
+
+::::

@@ -1,0 +1,46 @@
+---
+title: "Electrophysiological and electrochemical dynamics of subjective durations"
+description: "MIND and music-listening projects linking subjective duration with neural and neurochemical dynamics."
+---
+
+:::: {.project-page}
+
+::: {.page-hero .page-hero--project .page-hero--long-title}
+::: {.page-hero__inner}
+<p class="eyebrow">MIND · VOLTA · music</p>
+
+# Electrophysiological and electrochemical dynamics of *subjective durations*
+
+<p class="page-hero__lead">I study how subjective duration relates to neural activity and fast neurochemical fluctuations, both in controlled timing tasks and during music listening.</p>
+
+<a class="text-link" href="../../about/index.qmd#projects">← All research projects</a>
+:::
+:::
+
+::: {.project-content}
+::: {.project-content__inner}
+
+<figure class="project-illustration">
+  <img src="../../images/research/neural-card.svg" alt="Conceptual illustration of fluctuating signals around a time circle">
+  <figcaption>Conceptual illustration of the research theme; this drawing does not show recorded signals or results.</figcaption>
+</figure>
+
+## MIND · How neural and neurochemical dynamics shape subjective duration
+
+In **MIND**, my Marie Skłodowska-Curie Actions Global Postdoctoral Fellowship project, I ask how we arrive at the subjective duration of a visual experience and why that duration can differ from physical time. The project brings together behavioural judgments, electrophysiology and fast electrochemical measurements to examine how neural population activity and dopamine fluctuations relate to perceived duration. In people with clinically implanted electrodes, these approaches offer an opportunity to study neural and neurochemical activity on the timescale of the experience itself. I am particularly interested in whether changes in dopamine are associated with changes in the dynamics through which neural populations represent elapsed time.
+
+The fellowship has two complementary phases: an outgoing phase at the [Kishida Lab](https://www.kishidalab.com/) at Wake Forest University School of Medicine, where I train in human voltammetry, and a return phase with [Nathan Faivre](https://nfaivre.gitlab.io/) at the Laboratoire de Psychologie et NeuroCognition (LPNC) in Grenoble. The aim is to connect these methods and perspectives to better understand the duration of conscious experience. **MIND is ongoing—more to come.**
+
+## Music listening · Can musical time predict dopamine dynamics?
+
+During my training in the Kishida Lab, I joined a project asking how the temporal structure of music relates to neurochemical activity during listening. We are exploring whether features such as the time between beats and musical entropy help account for moment-to-moment dopamine estimates as a piece unfolds. It is an opportunity to study time beyond a laboratory interval, in an experience that continuously builds expectations. **This project is ongoing—stay tuned.**
+
+## People and publications
+
+I work on these projects with **Nathan Faivre** at LPNC, and **Kenneth T. Kishida**, **Angela Jiang** and colleagues at Wake Forest University School of Medicine.
+
+<p class="project-content__back"><a class="text-link" href="../../about/index.qmd#projects">← Back to research projects</a></p>
+:::
+:::
+
+::::

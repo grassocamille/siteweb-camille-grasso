@@ -1,0 +1,36 @@
+---
+title: "Selected publications"
+description: "Selected journal articles and a manuscript under revision by Camille Grasso."
+listing:
+  id: publication-catalog
+  contents: "*/index.qmd"
+  template: publication-card.ejs.md
+  sort: "year desc"
+  field-types:
+    year: number
+  sort-ui: false
+  filter-ui: false
+  page-size: 20
+---
+
+:::: {.publications-page}
+
+::: {.page-hero .page-hero--publications}
+::: {.page-hero__inner}
+<p class="eyebrow">Journal articles · preprint</p>
+
+# Selected *publications*
+
+:::
+:::
+
+::: {.publication-catalog}
+::: {.publication-catalog__inner}
+
+::: {#publication-catalog}
+:::
+
+:::
+:::
+
+::::

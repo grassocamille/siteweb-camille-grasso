@@ -1,0 +1,31 @@
+---
+title: "Decoding the production of durations in size-varying virtual environments"
+subtitle: "FAsT 2024 – Symposium"
+date: "2024-10-17"
+year: 2024
+talk-type: "Poster"
+event: "FAsT 2024 – Symposium"
+location: "NeuroPSI, Gif-sur-Yvette"
+description: "Virtual-reality and EEG findings on duration production in rooms of different sizes and heights."
+talk-links:
+  - label: "Poster"
+    url: "../../files/fast-2024-poster.pdf"
+  - label: "Event"
+    url: "https://fast2024.sciencesconf.org/?lang=fr"
+---
+
+::: {.talk-article}
+
+In this poster, we show that participants tend to overestimate durations in larger virtual environments or those with higher ceilings. EEG decoding analyses revealed that spatial features influence early brain dynamics during the planning and production of durations.
+
+## Poster
+
+<img class="talk-preview talk-preview--poster" src="../../images/talks/fast-2024-preview.png" alt="Preview of the FAsT 2024 poster PDF" loading="lazy">
+
+[Open poster (PDF) ↗]({{< meta talk-links.1.url >}}){.talk-preview-link target="_blank" rel="noopener noreferrer"}
+
+[Event website ↗]({{< meta talk-links.2.url >}}){target="_blank" rel="noopener noreferrer"}
+
+[← All talks](../index.qmd){.text-link}
+
+:::

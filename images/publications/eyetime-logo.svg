@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-label="Eye-tracking task: one eye and two lateral saccades">
+  <rect width="600" height="300" fill="#173a30"/>
+  <path d="M190 150c49-50 171-50 220 0-49 50-171 50-220 0Z" fill="none" stroke="#c9d8b5" stroke-width="5"/>
+  <circle cx="300" cy="150" r="26" fill="#e5724a"/>
+  <circle cx="300" cy="150" r="11" fill="#173a30"/>
+  <path d="M176 150h-72m0 0 18-13m-18 13 18 13M424 150h72m0 0-18-13m18 13-18 13" fill="none" stroke="#e5724a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

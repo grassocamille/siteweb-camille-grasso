@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 290">
+  <title>Three rhythms of subjective time</title>
+  <desc>Conceptual decorative traces, not recorded data: irregular perceptual sampling, changing neural oscillations, and slower neurotransmitter fluctuations.</desc>
+  <defs>
+    <filter id="soft-glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <path id="perceptual" d="M5 58 C60 58 63 58 77 57 C88 56 92 34 104 35 C119 36 119 82 133 82 C147 82 151 57 163 58 L206 58 C218 58 222 47 232 47 C246 47 246 72 261 71 C276 70 277 57 288 58 L320 58 C331 58 335 23 350 23 C367 23 369 87 385 87 C402 87 404 60 420 59 L455 59"/>
+    <path id="neural" d="M5 148 C65 148 79 149 91 147 C101 146 105 133 114 135 C124 137 127 162 137 161 C148 160 153 126 164 127 C177 129 180 170 191 167 C204 164 205 137 216 138 C226 139 233 157 244 154 C253 151 258 119 269 121 C282 123 285 166 297 169 C310 170 315 140 328 140 C338 141 344 153 355 151 C367 150 370 136 382 137 C393 138 399 148 413 148 L455 148"/>
+    <!-- Original broad wave, extended to the new width. -->
+    <path id="neurochemical" d="M26 230 c67 0 83-2 111-10 31-9 49-18 73-16 28 2 37 16 56 25 24 12 42 13 68 4 29-10 54-8 101-3"/>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g filter="url(#soft-glow)" opacity=".2" stroke-width="7">
+      <use href="#perceptual" stroke="#f6c6b7"/>
+      <use href="#neural" stroke="#c9d8b5"/>
+      <use href="#neurochemical" stroke="#e5724a"/>
+    </g>
+    <use href="#perceptual" stroke="#f6c6b7" stroke-width="2.2"/>
+    <use href="#neural" stroke="#c9d8b5" stroke-width="1.8"/>
+    <use href="#neurochemical" stroke="#e5724a" stroke-width="2.4"/>
+  </g>
+</svg>

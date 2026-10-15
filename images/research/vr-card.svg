@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-label="Abstract virtual-reality headset and room">
+  <rect width="600" height="300" fill="#173a30"/>
+  <path d="M80 75 180 35h240l100 40v170l-100 22H180L80 245Z" fill="none" stroke="#6f947d" stroke-width="2" opacity=".7"/>
+  <path d="M180 35v232M420 35v232M80 75h440M80 245h440" fill="none" stroke="#6f947d" stroke-width="2" opacity=".38"/>
+  <rect x="170" y="105" width="260" height="110" rx="42" fill="#244e3d" stroke="#c9d8b5" stroke-width="5"/>
+  <path d="M170 142H128a20 20 0 0 0-20 20v5a20 20 0 0 0 20 20h42m260-45h42a20 20 0 0 1 20 20v5a20 20 0 0 1-20 20h-42" fill="none" stroke="#c9d8b5" stroke-width="5"/>
+  <circle cx="250" cy="160" r="25" fill="#f6c6b7" opacity=".9"/>
+  <circle cx="350" cy="160" r="25" fill="#e5724a" opacity=".85"/>
+</svg>

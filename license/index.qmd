@@ -1,0 +1,20 @@
+---
+title: "License"
+description: "License information for Camille Grasso's site."
+---
+
+:::: {.simple-page}
+
+::: {.page-hero}
+::: {.page-hero__inner}
+<p class="eyebrow">Site information</p>
+
+# License
+:::
+:::
+
+::: {.simple-page__content}
+My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+:::
+
+::::

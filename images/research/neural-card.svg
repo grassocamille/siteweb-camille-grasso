@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-label="Abstract neural and electrochemical signals">
+  <rect width="600" height="300" fill="#173a30"/>
+  <g fill="none" stroke="#789a84" stroke-width="2" opacity=".6">
+    <circle cx="300" cy="150" r="116"/><circle cx="300" cy="150" r="80"/><circle cx="300" cy="150" r="43"/>
+  </g>
+  <path d="M70 160h94l17-40 25 87 25-47h62l17-55 26 92 24-37h145" fill="none" stroke="#f6c6b7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#e5724a"><circle cx="181" cy="120" r="8"/><circle cx="310" cy="105" r="8"/><circle cx="360" cy="160" r="8"/></g>
+  <g fill="#c9d8b5"><circle cx="125" cy="160" r="5"/><circle cx="470" cy="160" r="5"/></g>
+</svg>

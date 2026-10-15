@@ -1,0 +1,29 @@
+---
+title: "Sizing up time: EEG decoding of duration production in virtual environments"
+subtitle: "Cutting EEG 2023"
+date: "2023-10-18"
+year: 2023
+talk-type: "Poster"
+event: "Cutting EEG 2023"
+location: "Lyon"
+description: "Poster on duration production and EEG decoding in size-varying virtual environments."
+talk-links:
+  - label: "Poster"
+    url: "../../files/cutting_eeg_23.png"
+  - label: "Event"
+    url: "https://cuttinggardens2023.org"
+---
+
+::: {.talk-article}
+
+## Poster
+
+<img class="talk-preview talk-preview--poster" src="../../files/cutting_eeg_23.png" alt="Preview of the Cutting EEG 2023 poster on duration production in virtual environments" loading="lazy">
+
+[Open poster (PNG) ↗]({{< meta talk-links.1.url >}}){.talk-preview-link target="_blank" rel="noopener noreferrer"}
+
+[Event website ↗]({{< meta talk-links.2.url >}}){target="_blank" rel="noopener noreferrer"}
+
+[← All talks](../index.qmd){.text-link}
+
+:::

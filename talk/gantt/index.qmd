@@ -1,0 +1,29 @@
+---
+title: "How to Create Beautiful Gantt Charts for Your Grant Application"
+subtitle: "A simple and elegant method using R"
+date: "2025-01-28"
+year: 2025
+talk-type: "Workshop"
+event: "R Workshop – Research Tools"
+location: "Online"
+description: "A short tutorial on creating clear Gantt charts with R for grant applications."
+talk-links:
+  - label: "Slides"
+    url: "../../files/gantt_slides.html"
+---
+
+::: {.talk-article}
+
+In this short workshop, I presented a simple and effective method to create Gantt charts using R and `ggplot2`. The goal was to help researchers visually organize project timelines and work packages in a way that is both professional and clear.
+
+The talk includes code examples, visuals, and ready-to-use templates to adapt for your own grant proposals. Enjoy :-)
+
+## Slides
+
+<iframe class="talk-preview talk-preview--slides" src="../../files/gantt_slides.html" title="Preview of the Gantt chart workshop slides" loading="lazy"></iframe>
+
+[Open slides (HTML) ↗]({{< meta talk-links.1.url >}}){.talk-preview-link target="_blank" rel="noopener noreferrer"}
+
+[← All talks](../index.qmd){.text-link}
+
+:::

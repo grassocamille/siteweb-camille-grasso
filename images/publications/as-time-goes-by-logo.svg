@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-label="A hand between leftward and rightward movement arrows">
+  <rect width="600" height="300" fill="#173a30"/>
+  <path d="M250 150h-76m0 0 20-16m-20 16 20 16M350 150h76m0 0-20-16m20 16-20 16" fill="none" stroke="#e5724a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#f6c6b7">
+    <rect x="281" y="116" width="9" height="41" rx="4.5"/>
+    <rect x="293" y="106" width="9" height="51" rx="4.5"/>
+    <rect x="305" y="111" width="9" height="46" rx="4.5"/>
+    <rect x="317" y="123" width="9" height="35" rx="4.5"/>
+    <rect x="280" y="139" width="47" height="53" rx="14"/>
+    <path d="M284 165 268 151c-5-4-12-1-12 5 0 3 1 5 3 7l23 26Z"/>
+    <rect x="290" y="181" width="27" height="21" rx="4"/>
+  </g>
+  <path d="M290 196h27" stroke="#c9d8b5" stroke-width="3" stroke-linecap="round"/>
+</svg>

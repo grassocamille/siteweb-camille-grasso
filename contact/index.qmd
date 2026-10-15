@@ -1,0 +1,32 @@
+---
+title: "Contact"
+description: "Contact Camille Grasso about research, presentations and collaboration."
+---
+
+:::: {.simple-page}
+
+::: {.page-hero}
+::: {.page-hero__inner}
+<p class="eyebrow">Questions &amp; collaborations</p>
+
+# Contact
+
+<p class="page-hero__lead">Please do not hesitate to contact me using this form.</p>
+:::
+:::
+
+::: {.simple-page__content}
+<form class="contact-form" action="https://formspree.io/f/xaykngqr" method="post" accept-charset="utf-8">
+  <label for="full-name">Full name</label>
+  <input type="text" name="name" id="full-name" autocomplete="name" required>
+  <label for="email-address">Email address</label>
+  <input type="email" name="_replyto" id="email-address" autocomplete="email" required>
+  <label for="message">Message</label>
+  <textarea rows="7" name="message" id="message" required></textarea>
+  <input type="hidden" name="_subject" value="Contact Us Form Submission">
+  <button type="submit">Send message ↗</button>
+  <small>Powered by <a href="https://formspree.io">Formspree</a></small>
+</form>
+:::
+
+::::

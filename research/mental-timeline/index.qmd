@@ -1,0 +1,47 @@
+---
+title: "Language and the mental timeline"
+description: "How language, reading experience and movement contribute to spatial representations of past and future."
+---
+
+:::: {.project-page}
+
+::: {.page-hero .page-hero--project}
+::: {.page-hero__inner}
+<p class="eyebrow">Doctoral research · reading &amp; action</p>
+
+# Language and the *mental timeline*
+
+<a class="text-link" href="../../about/index.qmd#projects">← All research projects</a>
+:::
+:::
+
+::: {.project-content}
+::: {.project-content__inner}
+
+## Contribution of the motor system to the processing of *abstract temporal concepts*
+
+For many people who read from left to right, the past is associated with the left and the future with the right. During my PhD, I investigated how this “mental timeline” might arise, and more specifically whether sensorimotor experience plays a functional role in the way temporal concepts are represented.
+
+Drawing on neural reuse and correlational learning, we proposed that time and space become associated because they repeatedly co-occur during action. Reading and writing provided a particularly interesting test case, because they repeatedly link temporal order with spatially directed movements in a culturally learned direction.
+
+Across six studies involving more than 1,200 participants, I combined behavioural measures with mouse tracking, eye tracking and large-scale online experiments. By varying the type of movement, the effector used to respond and participants’ reading experience, we asked under which conditions spatial compatibility effects for past- and future-related concepts emerge.
+
+Overall, the results supported a functional contribution of the sensorimotor system to temporal concepts. Space–time compatibility depended on the nature of the movement, generalised across manual and eye movements, and varied with reading expertise. Together, these findings support the idea that the spatial organisation of temporal concepts can be shaped by repeated sensorimotor experience, rather than simply reflecting an intrinsically spatial representation of time.
+
+<figure class="project-illustration">
+  <img src="../../images/research/timeline-card.svg" alt="Conceptual illustration of events placed along a left-to-right timeline">
+</figure>
+
+## People and publications
+
+I developed this doctoral work with **Johannes C. Ziegler**, **Mathilde Montant**, **Jonathan Mirault** and **Jennifer T. Coull** at Aix-Marseille University. The studies linked below provide the experimental details and results.
+
+- [As time goes by: Space-time compatibility effect in word recognition](../../publications/as-time-goes-by/index.qmd)
+- [Space-time congruency effects using eye movements](../../publications/eyetime/index.qmd)
+- [Embodied time: Effect of reading expertise](../../publications/reading/index.qmd)
+
+<p class="project-content__back"><a class="text-link" href="../../about/index.qmd#projects">← Back to research projects</a></p>
+:::
+:::
+
+::::

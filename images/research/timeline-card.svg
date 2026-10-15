@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-label="Abstract left-to-right timeline">
+  <rect width="600" height="300" fill="#173a30"/>
+  <path d="M85 150h415" fill="none" stroke="#c9d8b5" stroke-width="3"/>
+  <path d="m500 150-17-11m17 11-17 11" fill="none" stroke="#c9d8b5" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="165" cy="150" r="11" fill="#f6c6b7"/>
+  <circle cx="300" cy="150" r="20" fill="#e5724a"/>
+  <circle cx="435" cy="150" r="11" fill="#f6c6b7"/>
+  <path d="M165 139c24-69 92-69 135-9m0 40c43 60 111 60 135-9" fill="none" stroke="#7fa28b" stroke-width="2" opacity=".8"/>
+  <path d="M165 177v22m135-20v35m135-37v22" stroke="#c9d8b5" stroke-width="2" opacity=".7"/>
+</svg>

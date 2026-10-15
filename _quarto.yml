@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - about/index.qmd
+    - research/*/index.qmd
+    - publications/index.qmd
+    - publications/*/index.qmd
+    - talk/index.qmd
+    - talk/*/index.qmd
+    - contact/index.qmd
+    - license/index.qmd
+  resources:
+    - files/
+    - images/portrait.jpg
+    - images/research/
+    - images/site/
+    - images/talks/
+    - images/publications/
+    - talk/talk-filters.js
+
+website:
+  title: "Camille Grasso"
+  navbar:
+    title: "Camille Grasso"
+    right:
+      - text: "About & research"
+        href: about/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Talks"
+        href: talk/index.qmd
+      - text: "CV ↗"
+        href: files/cv.pdf
+  page-footer:
+    left: "Camille Grasso"
+    right:
+      - text: "License"
+        href: license/index.qmd
+      - text: "Contact"
+        href: contact/index.qmd
+  search: false
+
+format:
+  html:
+    theme: theme.scss
+    page-layout: full
+    toc: false
+    anchor-sections: false
+    title-block-banner: false
+    link-external-newwindow: false
+

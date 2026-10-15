@@ -1,0 +1,31 @@
+---
+title: "As time goes by: Space-time compatibility effect in word recognition"
+author: "Grasso, C. L., Ziegler, J. C., Mirault, J., Coull, J. T., & Montant, M."
+year: 2022
+subtitle: "Journal of Experimental Psychology: Learning, Memory, and Cognition · 48(2), 304–319"
+status: "Published"
+description: "Spatially directed movements reveal a space-time compatibility effect during word recognition."
+image: "/images/publications/as-time-goes-by-logo.svg"
+image-alt: "Minimalist hand between leftward and rightward arrows, symbolising lateral manual responses in the word-recognition task"
+publication-links:
+  - label: "Paper"
+    url: "https://hal-amu.archives-ouvertes.fr/SFERE-PROVENCE/hal-03193618v1"
+  - label: "Materials"
+    url: "https://osf.io/7gt9k/"
+  - label: "DOI"
+    url: "https://doi.org/10.1037/xlm0001007"
+---
+
+::: {.publication-article}
+
+The processing of time activates a spatial left-to-right mental timeline, where past events are “located” to the left and future events to the right. If past and future words activate this mental timeline, then the processing of such words should interfere with hand movements that go in the opposite direction. To test this hypothesis, we conducted three visual lexical decision tasks with conjugated (past/future) verbs and pseudo-verbs. In Experiment 1, participants moved a pen to the right or left of a trackpad to indicate whether a visual stimulus was a real word or not. Grammatical time and hand movements for yes responses went in the same direction in the congruent condition (e.g., past tense/leftward movement) but in opposite directions in the incongruent condition. Analyses showed that space-time incongruency significantly increased reaction times. In Experiment 2, we investigated the role of movement in this effect. Participants performed the same task by responding with a trackpad or a mouse, both of which required lateral movement through space, or a  static key-press. We again obtained the space-time congruency effect, but only when the decision required movement through space. In Experiments 1 and 2, stimuli were preceded by a temporal prime. In Experiment 3, participants performed the same task without any prime. Results replicated the congruency effect, demonstrating that it does not depend upon temporal word priming.  Altogether, results suggest automatic activation of a left-right mental timeline during word recognition, reinforcing the claim that the concept of time is grounded in movement through space.
+
+## Resources
+
+- [{{< meta publication-links.1.label >}} ↗]({{< meta publication-links.1.url >}})
+- [{{< meta publication-links.2.label >}} ↗]({{< meta publication-links.2.url >}})
+- [{{< meta publication-links.3.label >}} ↗]({{< meta publication-links.3.url >}})
+
+[← All publications](../index.qmd){.text-link}
+
+:::

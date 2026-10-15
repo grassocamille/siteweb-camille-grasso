@@ -1,0 +1,33 @@
+---
+title: "Revealing the geometry of duration space"
+date: "2026-08-04"
+year: 2026
+talk-type: "Poster"
+event: "CCN 2026"
+location: "New York University, New York"
+talk-links:
+  - label: "Poster"
+    url: "../../files/poster_ccn_august26.pdf"
+  - label: "Conference abstract (PDF)"
+    url: "../../files/CCN2026_extended_abstract_camera_ready_grasso.pdf"
+  - label: "Event"
+    url: "https://2026.ccneuro.org/"
+---
+
+::: {.talk-article}
+
+I presented this poster at [CCN 2026](https://2026.ccneuro.org/), sharing the results of our preprint, [*Uncovering the representational geometry of duration*](https://www.biorxiv.org/content/10.64898/2026.03.29.715088v1).
+
+## Poster
+
+<img class="talk-preview talk-preview--poster" src="../../images/talks/ccn-2026-preview.png" alt="Preview of the CCN 2026 poster Revealing the geometry of duration space" loading="lazy">
+
+[Open poster (PDF) ↗]({{< meta talk-links.1.url >}}){.talk-preview-link target="_blank" rel="noopener noreferrer"}
+
+[Open conference abstract (PDF) ↗]({{< meta talk-links.2.url >}}){target="_blank" rel="noopener noreferrer"}
+
+[Event website ↗]({{< meta talk-links.3.url >}}){target="_blank" rel="noopener noreferrer"}
+
+[← All talks](../index.qmd){.text-link}
+
+:::

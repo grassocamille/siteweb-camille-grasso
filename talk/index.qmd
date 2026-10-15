@@ -1,0 +1,52 @@
+---
+title: "Talks & workshops"
+description: "Selected scientific presentations, posters and workshops by Camille Grasso."
+listing:
+  id: talk-listing
+  contents: "*/index.qmd"
+  template: talk-row.ejs.md
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  page-size: 30
+---
+
+:::: {.talks-page}
+
+::: {.page-hero .page-hero--talks}
+::: {.page-hero__inner}
+<p class="eyebrow">Time &amp; methods</p>
+
+# Talks & *workshops*
+
+<p class="page-hero__lead">Selected presentations, posters and workshops you might be interested in.</p>
+:::
+:::
+
+<!-- To restore the filters, uncomment this block, the empty-state message, and the script below. -->
+<!--
+<div class="talks-filter-band">
+<div class="talks-filter-band__inner" id="talk-filters">
+  <div class="talk-filter-control"><label for="talk-type">Type</label><select id="talk-type"><option value="">All types</option></select></div>
+  <div class="talk-filter-control"><label for="talk-year">Year</label><select id="talk-year"><option value="">All years</option></select></div>
+  <div class="talk-filter-reset"><button type="button" id="talk-reset">Reset filters</button></div>
+</div>
+</div>
+-->
+
+::: {.talks-list-section}
+::: {.talks-list-section__inner}
+
+::: {#talk-listing}
+:::
+
+<!-- <p id="talk-empty" class="talk-empty" role="status" hidden>No matching talks.</p> -->
+
+<div class="talks-contact"><span>Interested in a talk?</span><a href="../contact/index.qmd">Get in touch ↗</a></div>
+
+:::
+:::
+
+<!-- <script src="talk-filters.js?v=2" defer></script> -->
+
+::::
