@@ -3,3 +3,9 @@ publish = "_site"
 
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
+
+# Preserve the contact URL used by the former Hugo site.
+[[redirects]]
+from = "/form/"
+to = "/contact/"
+status = 301
