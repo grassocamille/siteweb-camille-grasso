@@ -43,7 +43,7 @@ Follow-up studies are under way, including a related task with judgments of soun
 I developed this work with **Ladislas Nalborczyk** and **Virginie van Wassenhove** during my postdoctoral research at NeuroSpin. The manuscript is under revision; a preprint is available.
 
 - [Uncovering the representational geometry of duration — publication summary](../../publications/geometry/index.qmd)
-- [Read the preprint](https://www.biorxiv.org/content/10.64898/2026.03.29.715088v1)
+- [Read the preprint](https://www.biorxiv.org/content/10.64898/2026.03.29.715088v3)
 
 <p class="project-content__back"><a class="text-link" href="../../about/index.qmd#projects">← Back to research projects</a></p>
 :::

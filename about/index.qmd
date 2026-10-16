@@ -1,5 +1,5 @@
 ---
-title: "About & research"
+title: "About & Research"
 description: "Camille Grasso's research on subjective time, duration and temporal cognition."
 ---
 

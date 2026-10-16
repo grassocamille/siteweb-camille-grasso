@@ -19,12 +19,12 @@ Marie Skłodowska-Curie Actions Global Postdoctoral Fellow
 ::: {.home-hero__affiliations}
 <div class="home-hero__affiliation-route" aria-label="Current affiliations">
 <div class="home-hero__affiliation-host">
-<span class="home-hero__affiliation-label">Wake Forest</span>
+<span class="home-hero__affiliation-label">Winston-Salem (NC)</span>
 <span class="home-hero__affiliation-name">Wake Forest University</span>
 <span class="home-hero__affiliation-detail">School of Medicine</span>
 </div>
 <div class="home-hero__affiliation-host">
-<span class="home-hero__affiliation-label">Grenoble</span>
+<span class="home-hero__affiliation-label">Grenoble (France)</span>
 <span class="home-hero__affiliation-name">LPNC</span>
 <span class="home-hero__affiliation-detail">Université Grenoble Alpes · CNRS</span>
 </div>
@@ -55,7 +55,7 @@ More broadly, I am trying to build a better understanding of how temporal repres
 
 :::
 
-[About & research ↗](about/index.qmd){.text-link .research-overview__link}
+[About & Research ↗](about/index.qmd){.text-link .research-overview__link}
 
 :::
 

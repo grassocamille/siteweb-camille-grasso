@@ -25,7 +25,7 @@ website:
   navbar:
     title: "Camille Grasso"
     right:
-      - text: "About & research"
+      - text: "About & Research"
         href: about/index.qmd
       - text: "Publications"
         href: publications/index.qmd
