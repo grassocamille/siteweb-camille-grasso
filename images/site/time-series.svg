@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 290">
   <title>Three rhythms of subjective time</title>
-  <desc>Conceptual decorative traces, not recorded data: irregular perceptual sampling, changing neural oscillations, and slower neurotransmitter fluctuations.</desc>
+  <desc>Diagram of perceptual sampling, neural oscillations and neurotransmitter fluctuations.</desc>
   <defs>
     <filter id="soft-glow" x="-10%" y="-30%" width="120%" height="160%">
       <feGaussianBlur stdDeviation="3"/>

@@ -35,7 +35,7 @@ Follow-up studies are under way, including a related task with judgments of soun
 
 <figure class="project-figure project-figure--wide">
   <a href="../../images/research/duration-geometry.jpg"><img src="../../images/research/duration-geometry.jpg" alt="Behavioural duration-similarity matrix, three-dimensional embedding, and the three dimensions plotted against duration" loading="lazy"></a>
-  <figcaption><strong>Behavioural geometry of duration.</strong> The similarity matrix, three-dimensional embedding and component profiles from the existing manuscript figure. Open the image for a larger view. Source: Grasso, Nalborczyk &amp; van Wassenhove, preprint linked below.</figcaption>
+  <figcaption><strong>Behavioural geometry of duration.</strong> The similarity matrix, three-dimensional embedding and component profiles. Open the image for a larger view. Source: Grasso, Nalborczyk &amp; van Wassenhove, preprint linked below.</figcaption>
 </figure>
 
 ## People and publications
