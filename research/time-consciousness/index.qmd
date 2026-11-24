@@ -22,7 +22,6 @@ description: "MIND and music-listening projects linking subjective duration with
 
 <figure class="project-illustration">
   <img src="../../images/research/neural-card.svg" alt="Conceptual illustration of fluctuating signals around a time circle">
-  <figcaption>Conceptual illustration of the research theme; this drawing does not show recorded signals or results.</figcaption>
 </figure>
 
 ## MIND · How neural and neurochemical dynamics shape subjective duration
